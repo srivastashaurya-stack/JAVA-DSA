@@ -1,3 +1,5 @@
+package recursion50qst;
+
 public class sumRecursion {
     public static int getSum(int n) {
 
